@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,Disney Channel india
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel india
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 ,Discovery Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
