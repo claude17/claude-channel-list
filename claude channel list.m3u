@@ -53,12 +53,10 @@ https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="BDIX05",Sony Ten 1 HD
 PT1BSTRVM010NXljcjVXZG9OMkx4NFdaMDlDZXZKV1p2RURPd2dqT3ljVE11Z2pOeDRTTzA0eU13RXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-logo="" group-title="BDIX05",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png",Sony Ten 2 HD
 NFUzTXQ1eWNyNVdkb04yTHk0V1owOUNldkpXWnZFRE93Z2pPeWNUTXVnak54NFNPMDR5TXdFekx2b0RjMFJIYQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="BDIX11",Sony Ten 3 HD
 NFUzTXQ1eWNyNVdkb04yTGtoMk11VkdkdlVtZHB4Mkx4Z0RNNG9ET3hJakx5QWpNdVFUTXk0eU13RXpMdm9EYzBSSGE=
-#EXTINF:-1 tvg-logo="" group-title="BDIX11",Star Sports 2 HD
-PWdUZHowbUx6dG1iMWgyWXZJemMwSjNid05uY2hSM2N2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLGLBiLUnY0IIuW1uMxiUva3bSoE6krz1MnGWwsy6BvGvN8-uN&usqp=CAU",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnn_international_asia_pacific.jpg",CNN
