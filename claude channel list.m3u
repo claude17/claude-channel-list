@@ -3,7 +3,7 @@
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/DSC_DGlobe_2016_Reverse.svg/revision/latest/scale-to-width-down/340?cb=20170504003819",Discovery Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_Disney_XD.svg",Disney XD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png",Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX04",DEEPTO TV [BD]
 NFUzTXQ1eWNyNVdkb04yTDJSM1h2UkhjbFZHWnZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhhdUVETWxkR1psOXlMNk1IYzBSSGE=
@@ -55,7 +55,21 @@ https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 PT1BSTRVM010NXljcjVXZG9OMkx4NFdaMDlDZXZKV1p2RURPd2dqT3ljVE11Z2pOeDRTTzA0eU13RXpMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="" group-title="BDIX05",Sony Ten 2 HD
 NFUzTXQ1eWNyNVdkb04yTHk0V1owOUNldkpXWnZFRE93Z2pPeWNUTXVnak54NFNPMDR5TXdFekx2b0RjMFJIYQ==
-#EXTINF:-1 tvg-logo="" group-title="BDIX11",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="BDIX11",Sony Ten 3 HD
 NFUzTXQ1eWNyNVdkb04yTGtoMk11VkdkdlVtZHB4Mkx4Z0RNNG9ET3hJakx5QWpNdVFUTXk0eU13RXpMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="" group-title="BDIX11",Star Sports 2 HD
 PWdUZHowbUx6dG1iMWgyWXZJemMwSjNid05uY2hSM2N2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
+#EXTINF:-1 ,BBC World News
+https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+#EXTINF:-1 ,CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 ,Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+#EXTINF:-1 ,DW
+https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
+#EXTINF:-1 ,Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u
+#EXTINF:-1 ,FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 ,NAT GEO WILD
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
