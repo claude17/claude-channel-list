@@ -67,9 +67,15 @@ https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 #EXTINF:-1 ,DW
 https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 ,Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u
 #EXTINF:-1 ,FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 ,NAT GEO WILD
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 ,History
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1 ,National Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1 ,Cartoon Network HD
+http://45.249.187.238:8081/hls/new14.m3u8
+#EXTINF:-1 ,HBO
+http://45.249.187.238:8081/hls/new13.m3u8
